@@ -1,0 +1,6 @@
+c:\users\talita e sidmar\documents\visual studio 2012\Projects\BookSys\BookSys\bin\Images\prateleira.jpg
+c:\users\talita e sidmar\documents\visual studio 2012\Projects\BookSys\BookSys\bin\BookSys.dll
+c:\users\talita e sidmar\documents\visual studio 2012\Projects\BookSys\BookSys\bin\BookSys.pdb
+c:\users\talita e sidmar\documents\visual studio 2012\Projects\BookSys\BookSys\obj\Debug\BookSys.dll
+c:\users\talita e sidmar\documents\visual studio 2012\Projects\BookSys\BookSys\obj\Debug\BookSys.pdb
+c:\users\talita e sidmar\documents\visual studio 2012\Projects\BookSys\BookSys\obj\Debug\BookSys.csprojResolveAssemblyReference.cache
