@@ -1,0 +1,1 @@
+Projeto de um CRUD de acervo de livros criado como trabalho de avaliação da disciplina de Linguagem de Programação Comercial e Prointer, para a faculdade Anhanguera de Campinas Unidade 1.
